@@ -50,7 +50,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     children: [
                       RadioListTile(value: 1, title: Text('Masculí')),
                       Divider(),
-                      RadioListTile(value: 1, title: Text('Femení')),
+                      RadioListTile(value: 2, title: Text('Femení')),
                     ],
                   ),
                 ),
